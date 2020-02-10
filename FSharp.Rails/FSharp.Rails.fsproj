@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Railway oriented programming library</Title>
+        <PackageProjectUrl>https://github.com/Imagio/FSharp.Rails</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Imagio/FSharp.Rails</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageLicenseUrl>https://mit-license.org/</PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>
